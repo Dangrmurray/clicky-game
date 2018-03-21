@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  font-size: 3rem;
+  color: red;
+  text-shadow: 2px 2px white;
+  margin-bottom: 10px;
+  background-image: url("http://idolza.com/a/f/c/christmas-decorations-at-disney-world-resorts-and-bq-as-well-dates_pictures-of-christmas-stuff_best-modern-office-design-interior-and-architecture-small-business-ideas-freshom.png");
+}
+
+.title {
+  float: left;
+}
+
+.scores {
+  float: right;
+}

@@ -1,0 +1,11 @@
+.wrapper {
+  padding-top: 50px;
+  /*background-image: "https://img.clipartxtras.com/fd17cd3abd48a7b7a6b6efed9b16ea73_merry-christmas-2017-disney-wallpapers-cards-merry-christmas-2017-disney-christmas-background-clipart_1280-800.png";*/
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
